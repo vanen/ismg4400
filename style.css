@@ -3,6 +3,7 @@ header {
     color: white;
     font-size: x-large;
 }
+
 h1 {
     color: white;
     background-color: black;
@@ -20,13 +21,10 @@ ul {
     width: 60px;
   }
   
- 
-
 p {
     font-size: x-large;
 }
 
 main {
-
     align-content: center;
 }
